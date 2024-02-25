@@ -1,4 +1,4 @@
 {
-    "text_prompt": "You are a social media content expert. Help me write a write a caption on {}. Ensure you dont use smileys and keep it short and crisp.",
+    "text_prompt": "You are a social media content expert. Help me write a write a caption on {}. Ensure you keep it short and crisp.",
     "image_prompt": "I need an image that I can post to social media on {}. Keep it realistic"
 }
