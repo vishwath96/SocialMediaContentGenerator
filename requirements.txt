@@ -1,0 +1,4 @@
+freeGPT
+tweepy
+pillow
+instagrapi
