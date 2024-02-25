@@ -34,12 +34,9 @@ For any inquiries, feedback, or suggestions regarding 🌟SocialMediaContentGene
 
 ## Enjoy Exploring SocialMediaContentGenerator!
 
-I hope you find 🌟SocialMediaContentGenerator🌟 useful for automating your social media and driving more audience to your niche.
+I hope you find 🌟SocialMediaContentGenerator🌟 useful for automating your social media and driving more audience to your niche. Below is a glimpse of what got generated for the topic - "Gym Motivation"
 
-
-## Example That Got Generated For The Topic - "Gym Motivation"
-
-**Caption**
+***Caption***
 "Push yourself, because no one else is going to do it for you. #GymMotivation"
 
 ![alt text](https://github.com/vishwath96/SocialMediaContentGenerator/blob/main/examples/image.png?raw=true)
